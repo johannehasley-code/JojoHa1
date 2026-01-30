@@ -1,0 +1,98 @@
+.logo-2ie {
+    
+  display: block;
+  margin: 0 auto;     /* centre horizontalement */
+  max-width: 400px;   /* taille max */
+  height: auto;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #928c8c;
+  color: #333;
+}
+.title {
+  text-align: center;
+  color: black;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  line-height: 1.6;
+}
+h1, h2, h3 {
+  color: #000000;
+}
+
+.cours{
+  background-color: #e8f0fe;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  border-left: 5px solid #4285f4;
+margin: 0 auto; 
+list-style: none;       
+  padding: 0;
+  margin: 20px auto;     
+  display: flex;
+  flex-direction: column; 
+  align-items: center;    
+  text-align: center;    
+}
+.newsletter {
+     display: flex;
+  align-items: center;
+  gap: 10px;
+    margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 300px; 
+  margin: 0 auto; 
+    display: flex;
+    flex: 1; /* Prend tout l'espace disponible */
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  
+}
+.app-container {
+  width:50%;
+  margin:auto;
+}
+
+.etudiant {
+text-align: center; 
+  font-weight: bold;       
+  font-size: 2em;        
+}
+h1 {
+text-align: center; 
+  font-weight: bold;       
+  font-size: 2em;        
+}
+button{
+border:none;
+padding: 8px 16px;
+background-color: #007BFF;
+color: white;
+border-radius: 4px;
+cursor:pointer;
+ 
+  display: flex;
+  vertical-align: middle;
+  margin: 0; 
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  
+}
+button:hover {
+    background-color: #0056b3;
+    }
